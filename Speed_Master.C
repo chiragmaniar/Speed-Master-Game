@@ -125,9 +125,6 @@ void end()  //Goodbye Screen
     delay(200);
     cleardevice();
    }
-    //settextjustify(CENTER_TEXT,CENTER_TEXT);
-    //settextstyle(3,0,4);
-    //outtextxy(mx/2,150,"    GOODBYE... ");
 
   //Tojustify Horizontaly
   settextjustify(CENTER_TEXT,CENTER_TEXT);
